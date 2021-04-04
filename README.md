@@ -1,2 +1,2 @@
 # arduino-ambilight
-LED lighting system that reflects the colors of the TV to the room
+LED lighting system that reflects the colors of the TV on the walls room
